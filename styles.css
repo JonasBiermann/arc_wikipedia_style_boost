@@ -1,0 +1,57 @@
+/**
+ * Arc Boost — Wikipedia Dark Theme
+ * Author: @jacob_biermann
+ * Version: 1.0.0
+ */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+* {
+  background: var(--arc-palette-background) !important;
+  color: var(--arc-palette-title) !important;
+  border-color: var(--arc-palette-hover) !important;
+  font-family: "Poppins", sans-serif !important;
+}
+
+.mw-indicators,
+.toc,
+.reflist,
+.catlinks,
+.mw-editsection,
+.reference,
+#Notes,
+#References,
+#mw-panel,
+#mw-head,
+#pt-anonuserpage,
+#pt-anontalk,
+#pt-anoncontribs,
+#pt-createaccount,
+#footer-places,
+#pt-login {
+  display: none !important;
+}
+
+a {
+  color: var(--arc-palette-foregroundSecondary) !important;
+}
+
+h2 {
+  border-bottom: none !important;
+  font-weight: 600 !important;
+}
+
+h1 {
+  font-weight: 500 !important;
+  font-size: 2rem !important;
+}
+
+#content,
+#footer {
+  background-color: var(--arc-palette-background) !important;
+  margin: 0% 5% !important;
+  margin-bottom: 2% !important;
+  border: 1px solid var(--arc-palette-foregroundSecondary) !important;
+  border-right-width: 1 !important;
+  border-radius: 15px !important;
+}
