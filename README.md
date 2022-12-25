@@ -4,6 +4,8 @@ This Arc Boost enables a personalized dark mode on Wikipedia that adapts to your
 
 My Twitter handle: @jacob_biermann
 
+See it in action: https://drive.google.com/file/d/1jzqDgJy2-1yIRilzPs66qkZMhpd2T1Ll/view?usp=sharing
+
 ## Usage
 1. Go to en.wikipedia.org
 2. Make a new Style Boost for the website
